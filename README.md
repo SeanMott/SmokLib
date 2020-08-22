@@ -35,8 +35,3 @@ imgui docking branch, source from the Cherno's [game engine series](https://www.
 All headers from the stb single file repo <br >
 
 [Github](https://github.com/nothings/stb)
-
-# FlexibleReflection
-Allows for C++ reflection in the Smok engine used for Components <br >
-
-[Github](https://github.com/preshing/FlexibleReflection)
